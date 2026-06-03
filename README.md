@@ -74,7 +74,6 @@ The file `annotations.csv` contains the following fields:
 - Tree positions are recorded from right to left as they appear in the image. For example, position 1 refers to the rightmost tree, position 2 refers to the second tree from the right, and so on.
 - Tree 5 was excluded from evaluation due to anomalous intermediate results.
 
-
 ## Citation
 
 If you use this dataset, please cite our paper:
