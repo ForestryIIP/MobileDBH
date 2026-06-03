@@ -79,7 +79,6 @@ The file `annotations.csv` contains the following fields:
 
 If you use this dataset, please cite our paper:
 
-Mou, C.; Fan, J.; Liu, A.; Liu, C.; Huang, K.; Ding, H.; Li, J.; Zhang, H. MobileDBH: Estimating Tree Diameter at Breast Height from Smartphone Images Using a Lightweight Diffusion Depth Network for Field Tree Phenotyping. Agriculture 2026.
 
 ## Contact
 
